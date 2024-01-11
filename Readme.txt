@@ -1,7 +1,10 @@
 Create a Clique network
-
 - Windows OS
 - 3 Nodes
+
+Pre-requisites
+- Hyperledger Besu (https://github.com/hyperledger/besu/releases)
+- Java 17+ (https://www.oracle.com/java/technologies/downloads/)
 
 1. Start the first node as the bootnode
 
